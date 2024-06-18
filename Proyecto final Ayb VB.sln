@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Proyecto final Ayb VB", "Proyecto final Ayb VB\Proyecto final Ayb VB.vbproj", "{95B48E2E-BD92-48E6-AF46-3D339F36F903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B48E2E-BD92-48E6-AF46-3D339F36F903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B48E2E-BD92-48E6-AF46-3D339F36F903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B48E2E-BD92-48E6-AF46-3D339F36F903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B48E2E-BD92-48E6-AF46-3D339F36F903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66DF7FE8-AFEE-4550-8C35-E288AED248E7}
+	EndGlobalSection
+EndGlobal
